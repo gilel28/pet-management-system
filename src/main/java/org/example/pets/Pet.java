@@ -1,4 +1,4 @@
-package org.example;
+package org.example.pets;
 /**
  * Abstract class representing a general Pet.
  * Demonstrates Abstraction and Encapsulation.

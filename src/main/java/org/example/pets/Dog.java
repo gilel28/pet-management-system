@@ -1,9 +1,10 @@
-package org.example;
+package org.example.pets;
+
 /**
  * Dog class extending Pet.
  * Demonstrates Inheritance and Method Overriding.
  */
-public class Dog extends Pet  {
+public class Dog extends Pet {
    private String breed;
 
     public Dog(String name, int age, String species, String breed) {

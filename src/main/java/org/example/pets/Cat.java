@@ -1,4 +1,5 @@
-package org.example;
+package org.example.pets;
+
 /**
  * Cat class extending Pet.
  * Demonstrates Inheritance and Method Overriding.

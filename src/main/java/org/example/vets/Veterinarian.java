@@ -1,6 +1,6 @@
-package org.example;
+package org.example.vets;
 
-import org.example.Pets.Pet;
+import org.example.pets.Pet;
 
 /**
  * Veterinarian interface.

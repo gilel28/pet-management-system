@@ -1,11 +1,11 @@
-package org.example;
+package org.example.vets;
 
-import org.example.Pets.Pet;
+import org.example.pets.Pet;
 
 /**
  * Specialist Veterinarian implementation.
  */
-public class SpecialistVeterinarian implements Veterinarian{
+public class SpecialistVeterinarian implements Veterinarian {
     private String name;
     private String specialty;
 

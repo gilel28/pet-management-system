@@ -1,11 +1,11 @@
-package org.example;
+package org.example.vets;
 
-import org.example.Pets.Pet;
+import org.example.pets.Pet;
 
 /**
  * General Veterinarian implementation.
  */
-public class GeneralVeterinarian implements Veterinarian{
+public class GeneralVeterinarian implements Veterinarian {
 
     private String name;
 
