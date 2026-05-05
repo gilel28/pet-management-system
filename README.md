@@ -25,4 +25,4 @@ The system manages different types of pets (Dogs and Cats) and their interaction
 5. The console will output the simulation results, displaying the interactions between the veterinarians and the pets.
 
 ## Author
-Gil
+Gil Eliav
