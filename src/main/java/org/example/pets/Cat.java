@@ -5,7 +5,7 @@ package org.example.pets;
  * Demonstrates Inheritance and Method Overriding.
  */
 public class Cat extends Pet {
-    private String color;
+    private final String color;
 
     public Cat(String name, int age,String species, String color) {
         super(name, age, species);
@@ -26,5 +26,6 @@ public class Cat extends Pet {
     public String eat() {
         return "Cats eat cat food";
     }
+
 }
 

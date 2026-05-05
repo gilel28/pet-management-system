@@ -6,7 +6,7 @@ package org.example.pets;
 public abstract class Pet {
     private final String name;
     private final int age;
-    protected String species;
+    protected final String species;
 
     public Pet(String name, int age, String species) {
         this.name = name;

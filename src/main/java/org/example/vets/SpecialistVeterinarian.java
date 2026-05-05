@@ -6,7 +6,7 @@ import org.example.pets.Pet;
  * Specialist Veterinarian implementation.
  */
 public class SpecialistVeterinarian implements Veterinarian {
-    private String name;
+    private final String name;
     private String specialty;
 
     public SpecialistVeterinarian(String name, String specialty) {

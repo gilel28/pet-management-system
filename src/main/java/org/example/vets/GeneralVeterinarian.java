@@ -7,7 +7,7 @@ import org.example.pets.Pet;
  */
 public class GeneralVeterinarian implements Veterinarian {
 
-    private String name;
+    private final String name;
 
     public GeneralVeterinarian(String name) {
         this.name = name;
