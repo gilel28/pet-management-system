@@ -7,6 +7,9 @@ package org.example.pets;
 public class Cat extends Pet {
     private final String color;
 
+    /**
+     * Overloaded constructor implemented specifically to meet exercise requirements.
+     */
     public Cat(String name, int age,String species, String color) {
         super(name, age, species);
         this.color = color;
